@@ -14,7 +14,7 @@ public class Converter implements DatesToCronConverter{
 
     @Override
     public String getImplementationInfo() {
-        return "Зюлин Владислав Алексеевич, Converter, DigitalDesign, ВСТАВИТЬ ГИТ";
+        return "Зюлин Владислав Алексеевич, Converter, DigitalDesign, https://github.com/Dragon4849/DigitalDesign";
     }
 
     public static void main(String[] args) {
