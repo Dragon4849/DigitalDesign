@@ -17,4 +17,8 @@ public class Converter implements DatesToCronConverter{
         return "Зюлин Владислав Алексеевич, Converter, DigitalDesign, ВСТАВИТЬ ГИТ";
     }
 
+    public static void main(String[] args) {
+        
+    }
+
 }
