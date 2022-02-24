@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DigitalDesign:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DigitalDesign_jar</output-path>
+    <root id="archive" name="DigitalDesign.jar">
+      <element id="module-output" name="DigitalDesign" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/zyulin/vladislav/java-school.jar" path-in-jar="/" />
+      <element id="library" level="project" name="java-school-sources" />
+    </root>
+  </artifact>
+</component>

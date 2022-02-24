@@ -18,7 +18,7 @@ public class Converter implements DatesToCronConverter{
     }
 
     public static void main(String[] args) {
-        
+
     }
 
 }
